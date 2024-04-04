@@ -1,4 +1,4 @@
-# End-to-End Pairs Trading Strategy
+# Pairs Trading from Beginning to End
 
 End-to-End Pairs Trading
 <Pairs Selection Framework>
