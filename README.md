@@ -20,7 +20,7 @@ End-to-End Pairs Trading
 
 ### 1.3. Evaluation
 - Silhouette coefficient
-- Dunn index
+- R Square
 
 ## 2. Many to Many Pairs Selection Algorithm with Clustering based Ensemble Algortihm
 [Many-to-Many Pairs Selection Algorithhm](https://link.springer.com/chapter/10.1007/978-3-031-25158-0_31)
