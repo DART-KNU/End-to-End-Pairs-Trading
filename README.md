@@ -1,7 +1,7 @@
 # Many-to-Many Pairs Trading
 
-## Kyungpook National University Financial data Analysis Society DART  
-## 2024 First Semester Pairs Trading Project
+**Kyungpook National University Financial data Analysis Society DART**  
+**2024 First Semester Pairs Trading Project**
 
 [Download our paper](https://github.com/DART-KNU/Pairs-Trading-from-Beginning-to-End/blob/main/paper/MMPT.pdf)
 
