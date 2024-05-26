@@ -3,7 +3,7 @@
 ## Kyungpook National University Financial data Analysis Society DART  
 ## 2024 First Semester Pairs Trading Project
 
-- Download our paper: paper -> MMPT.pdf
+[Download our paper](https://github.com/DART-KNU/Pairs-Trading-from-Beginning-to-End/blob/main/paper/MMPT.pdf)
 
 ![MMPT-01](https://github.com/DART-KNU/Pairs-Trading-from-Beginning-to-End/assets/159755541/e05c233e-58a9-4c37-91ab-975a04b2bc69)
 ![MMPT-02](https://github.com/DART-KNU/Pairs-Trading-from-Beginning-to-End/assets/159755541/695005c9-a372-4d02-9910-bd413fa165a0)
